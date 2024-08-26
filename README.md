@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yousefmostafa200.yousefmostafa200" />
 
 <h1 align='center'>
- <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yousef+Mostafa!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Bungee+Tint&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yousef+Mostafa!;" />
 </h1>
 
  <h3 align="center">A passionate javascript(React) developer from Egypt</h3>
@@ -28,11 +28,21 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,github,sass,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,supabase,firebase,redux,jquery,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,redux,tailwind,bootstrap,mui" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,sass,git,supabase,firebase,jquery,vscode" /><br>
 </div>
 
- 
+<br/>
+<hr/>
+
+ <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yousefmostafa200/yousefmostafa200/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <!--
 **yousefmostafa200/yousefmostafa200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
